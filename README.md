@@ -4,7 +4,7 @@ Code for the paper "SesameBERT: Attention for Anywhere". The code is based on go
 
 ## Requirements
 
-For running the code follwing dependies are required :
+For running the code follwing dependencies are required :
 
 1. google-research/bert 
 2. pip install numpy, tensorflow 
